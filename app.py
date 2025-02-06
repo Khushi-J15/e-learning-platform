@@ -66,4 +66,3 @@ if st.button("🔎 Get Recommendations"):
 
 # Footer
 st.markdown("---")
-st.markdown("🚀 Built with ❤️ using Streamlit")
